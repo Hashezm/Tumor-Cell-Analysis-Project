@@ -17,7 +17,7 @@ This project analyzes tumor cell data from 550 patients using Python. It involve
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
 
-* NOTE * TO QUICKLY VIEW PROJECT CONTENTS OPEN THE PDF FILE !!! 
+* NOTE: TO QUICKLY VIEW PROJECT CONTENTS, OPEN THE PDF FILE !!! 
 
 ## Installation
 1. Clone the repository:
